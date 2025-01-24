@@ -130,6 +130,9 @@ p {
 .rooms_flex .room{
   width: 32%;
 }
+.room img{
+  width: 100%;
+}
 /* Room Part End */
 
 /* Banner Part Start  */

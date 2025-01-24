@@ -64,13 +64,24 @@ p {
   padding-top: 155px;
   padding-bottom: 115px;
 }
-#Banner_bg .card{
-  height: 100px;
+#Banner_bg .banner_card{
   width: 50%;
   background: #FFF3E3;
   margin-left: auto;
   padding: 65px 75px 35px 40px;
   border-radius: 10px;
+}
+.banner_card h4{
+  font-size: 16px;
+  font-weight: 600;
+  color: #333333;
+}
+.banner_card h1{
+  font-size: 52px;
+  font-weight: 700;
+  color: #B88E2F;
+  line-height: 65px;
+  padding-right: 151px;
 }
 /* Banner Part End */
 

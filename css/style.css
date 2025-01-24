@@ -123,6 +123,7 @@ p {
   color: #666666;
 }
 .rooms_flex{
+  margin-top: 50px;
   display: flex;
   justify-content: space-between;
 }

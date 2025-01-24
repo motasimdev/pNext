@@ -75,6 +75,7 @@ p {
   font-size: 16px;
   font-weight: 600;
   color: #333333;
+  padding-bottom: 15px;
 }
 .banner_card h1{
   font-size: 52px;
@@ -82,6 +83,23 @@ p {
   color: #B88E2F;
   line-height: 65px;
   padding-right: 151px;
+}
+.banner_card p{
+  width: 546px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333333;
+  line-height: 24px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.banner_card a{
+  font-size: 16px;
+  font-weight: 700;
+  color: #FFFFFF;
+  padding: 25px 72px;
+  background: #B88E2F;
+  text-transform: uppercase;
 }
 /* Banner Part End */
 

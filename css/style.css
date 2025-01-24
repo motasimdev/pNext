@@ -67,8 +67,10 @@ p {
 #Banner_bg .card{
   height: 100px;
   width: 50%;
-  background: #000;
+  background: #FFF3E3;
   margin-left: auto;
+  padding: 65px 75px 35px 40px;
+  border-radius: 10px;
 }
 /* Banner Part End */
 

@@ -33,7 +33,6 @@ p {
 /* Header Part Start  */
 #header_part {
   padding: 45px 0;
-  background: tomato;
 }
 .header_flex{
   display: flex;
@@ -57,6 +56,20 @@ p {
 /* Header Part End */
 
 /* Banner Part Start  */
+#Banner_bg{
+  background: url(../images/scandinavian-interior-mockup-wall-decal-background\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 155px;
+  padding-bottom: 115px;
+}
+#Banner_bg .card{
+  height: 100px;
+  width: 50%;
+  background: #000;
+  margin-left: auto;
+}
 /* Banner Part End */
 
 /* Banner Part Start  */

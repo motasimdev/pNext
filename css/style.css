@@ -103,8 +103,18 @@ p {
 }
 /* Banner Part End */
 
-/* Banner Part Start  */
-/* Banner Part End */
+/* Room Part Start  */
+#room_part{
+  padding-top: 65px;
+  padding-bottom: 70px;
+}
+.common_title{
+  text-align: center;
+}
+.common_title h3{
+  
+}
+/* Room Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
